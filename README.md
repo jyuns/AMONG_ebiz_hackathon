@@ -1,5 +1,5 @@
 # AMONG_ebiz_hackathon
-
+<span style="color: green"> Some green text </span>
 본 가이드라인은 문제 3번의 [간단한 웹 개발]에 해당합니다. 해당 문제에서는 [웹 개발]과 [클라우드 환경 구축]이 포함되어 있으며, 어느 것을 먼저 구축할 지에 대한 순서는 무방합니다. 그저 만들어진 웹 리소스(HTML, CSS, Javascript 등)가 클라우드 서버에 업로드되어 퍼블릭하게 접속해볼 수 있도록 구축되는 것을 목표로 합니다. 
 
 
