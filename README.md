@@ -24,19 +24,18 @@
 
 ## 이미 만들어진 코드들을 가져다 사용해도 되나요?
 
-네, 가능합니다. 이미 만들어진 것을 가져다 사용하는 것도 능력이라 생각합니다. 따라서 원하는 기능을 가진 코드들을 검색을 통해 찾거나, 해당하는 라이브러리를 찾아 사용해도 무방합니다. 하단의 참고사이트를 이용하여 찾는다면 많은 시간을 단축할 수 있을 것입니다.
+네, 가능하며 오히려 권장하려 하고 있습니다. 이미 만들어진 것을 가져다 사용하는 것도 능력이라 생각하며, 빠른 시간 안에 생각한 바를 구현해내야하는 해커톤 특성상 부합하다 생각합니다. 따라서 원하는 기능을 가진 소스코드들을 검색해보거나, 라이브러리를 찾아 사용해도 무방합니다. 하단의 참고사이트를 이용해 찾는다면 많은 시간을 단축할 수 있을 것입니다.
 
-추가적으로, CSS 프레임워크인 'Bootstrap'의 예제(https://getbootstrap.com/docs/4.5/examples/) 를 보면 만들어진 템플릿들이 있습니다. 만약 만들고자 하는 웹에 필요한 형태의 템플릿이라면 가져다 사용할 것을 권장합니다. 다만, 해커톤 이전에 이미 스스로 구축해봤던 완전한 형태의 웹 서비스를 그대로 사용하는 행위는 지양해주시기 바랍니다.
-
+추가적으로, CSS 프레임워크인 (Bootstrap의 예제)[https://getbootstrap.com/docs/4.5/examples/]를 보면 만들어진 HTML&CSS 템플릿이 있을 것입니다. 만약 만들고자 하는 웹에 부합하는 형태의 템플릿이라면 사용할 것을 권장합니다. 다만, 해커톤 이전에 이미 스스로 구축해봤던 완전한 형태의 웹 서비스를 그대로 사용하는 행위는 불가하며 지양해주시기 바랍니다.
 
 
 ## 참고사이트
-- StackOverFlow(https://stackoverflow.com/) / 검색 사이트
-- Google(https://www.google.com/) / 검색 사이트
+- (StackOverFlow)[https://stackoverflow.com] / 검색 사이트
+- (Google)[https://www.google.com] / 검색 사이트
 
-- Codepen(https://codepen.io/) / HTML, CSS, Javascript 예제 사이트
+- (Codepen)[https://codepen.io] / HTML, CSS, Javascript 예제 사이트
 
-- Bootstrap(https://getbootstrap.com/) / CSS 프레임워크
-- Pure.css(https://purecss.io/) / CSS 프레임워크
-- UI kit(https://getuikit.com/) / CSS 프레임워크
+- (Bootstrap)[https://getbootstrap.com] / CSS 프레임워크
+- (Pure.css)[https://purecss.io] / CSS 프레임워크
+- (UI kit)[https://getuikit.com] / CSS 프레임워크
 
