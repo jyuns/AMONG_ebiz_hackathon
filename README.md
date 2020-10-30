@@ -17,7 +17,7 @@
 
 아닙니다. 현 문제에서는 HTML과 CSS만을 사용한 웹페이지 구현을 기본으로 합니다. 그러나 Javascript나 그 외의 언어, 프레임워크를 사용해 개발하였을 경우에는 가산점이 부여됩니다.
 
-- HTML & CSS / 기본점
+- HTML & CSS / 기본점 ([예시](/level_1/index.html))
 - HTML & CSS & Javascript / 가산점
 
 
