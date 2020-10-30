@@ -1,6 +1,6 @@
 const timeSpan = document.getElementById('timer');
 
-const deadline = new Date('Oct 28, 2020 20:10:00').getTime()
+const deadline = new Date('Oct 31, 2020 20:10:00').getTime()
 
 function addZero(num) {
   return (num<10 ? "0"+num : num)
